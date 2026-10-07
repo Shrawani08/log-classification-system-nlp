@@ -1,6 +1,6 @@
 # 🔍 Log Classification using Machine Learning
 
-This project focuses on automating the classification of log messages (e.g., `INFO`, `DEBUG`, `ERROR`, etc.) using machine learning techniques. It aims to help developers and system administrators quickly identify and respond to critical system events.
+This project focuses on automating the classification of log messages using machine learning techniques. It aims to help developers and system administrators quickly identify and respond to critical system events.
 
 ## 📌 Features
 
